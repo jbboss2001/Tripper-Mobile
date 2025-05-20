@@ -1,0 +1,6 @@
+This is a free app and provided for no cost. If you choose to use this service, then you agree the use of certain information intended
+to make the app function. Information is not collected by either third-parties or myself, and no log data is collected, stored, or tracked.
+Current location may be provided for the app to accurately some calculate weather and drive-time information. This can be managed through Apple
+settings in Location Services, and is optional. This app is intended for individual use only. I take no responsibility for content created or shared
+by individual app users with other app users or non-app users. Information entered on this app is stored only on the app unless shared by the user,
+but I do not guarantee the safety of data stored in this app from malicious 3rd parties as no electronic device is ever 100% secure.
